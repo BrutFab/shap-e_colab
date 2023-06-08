@@ -1,6 +1,6 @@
 # Google Colab Adaptation of Shap-e for 3D Generation
 
-Welcome to the GitHub repository dedicated to sharing Google Colab adaptations of OpenAI's Shap-e model notebooks. The original Shap-e model is designed for generating 3D shapes from prompts, and these notebooks make the process accessible directly within Google Colab.
+Welcome to the GitHub repository dedicated to sharing Google Colab adaptations of OpenAI's Shap-e model notebooks. The original Shap-e model is designed for generating 3D shapes from prompts, and these notebooks make the process accessible directly within Google Colab. 
 
 ## Notebooks Overview
 
