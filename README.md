@@ -9,4 +9,5 @@ Welcome to the GitHub repository dedicated to sharing Google Colab adaptations o
 2. **Image to 3D Notebook**: This notebook is tailored to transform image prompts into 3D models. It performs optimally when the image has a clear focus on the object of interest, with the background removed. The resulting 3D shapes can be saved as OBJ and PLY files, as well as rendered into GIFs for easy viewing.
 
 These notebooks were specifically adapted from the original Shap-e Jupyter notebooks to ensure seamless compatibility with Google Colab. For a more detailed guide on how to use these notebooks, visit our YouTube channel, [BrutFab](https://www.youtube.com/@BrutFab).
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brutfab)
