@@ -11,3 +11,6 @@ Welcome to the GitHub repository dedicated to sharing Google Colab adaptations o
 These notebooks were specifically adapted from the original Shap-e Jupyter notebooks to ensure seamless compatibility with Google Colab. For a more detailed guide on how to use these notebooks, visit our YouTube channel, [BrutFab](https://www.youtube.com/@BrutFab).
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brutfab)
+
+
+The Original Repo from Open-ai: [shap-e openai](https://github.com/openai/shap-e)
